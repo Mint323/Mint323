@@ -1,5 +1,3 @@
-<img align="right" width="230" src="./assets/zenitsu.png" alt="Zenitsu Agatsuma surrounded by lightning" />
-
 # Hi, I'm Mint
 
 ### AI Agent Builder · Human-Centered AI Researcher
@@ -7,6 +5,8 @@
 I build practical AI agents that connect reasoning, tools, and real-world data.
 My work sits between **agent engineering**, **human-centered AI**, and
 **scalable information systems**.
+
+<img align="right" width="205" src="./assets/zenitsu.png" alt="Hand-drawn Zenitsu Agatsuma illustration" />
 
 - M.S. in Artificial Intelligence at Hangzhou Dianzi University
 - Based in Hangzhou, China
