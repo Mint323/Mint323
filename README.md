@@ -60,11 +60,7 @@ progress; publications and accompanying code will be added here.
 | [**Email Enrich**](https://github.com/Mint323/email-enrich) | Discovers and scores public creator contact information across social and developer platforms. |
 | [**Instagram Comment Skill**](https://github.com/Mint323/instagram-comment-SKILL) | A reusable agent skill for collecting, normalizing, deduplicating, and exporting public comment-user data. |
 
-## Education
 
-**Hangzhou Dianzi University**  
-M.S. in Artificial Intelligence · September 2025 – Present  
-Hangzhou, China
 
 ## A Little More Personal
 
