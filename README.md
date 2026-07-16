@@ -10,7 +10,7 @@ My work sits between **agent engineering**, **human-centered AI**, and
 
 - M.S. in Artificial Intelligence at Hangzhou Dianzi University
 - Based in Hangzhou, China
-- Researching HCI, Affective Computing, BCI, and AI Agents
+- Researching Human-Computer Interfaces, Affective Computing, non-invasive BCI, and AI Agents
 - Building MCP services, agent skills, and data-enrichment systems
 
 <p>
@@ -25,9 +25,9 @@ My work sits between **agent engineering**, **human-centered AI**, and
 
 | Research | Engineering |
 | --- | --- |
-| Human-Computer Interaction | Tool-using AI agents |
+| Human-Computer Interfaces (HCI) | Tool-using AI agents |
 | Affective Computing | MCP services and agent skills |
-| Brain-Computer Interfaces | Context and workflow engineering |
+| Non-invasive Brain-Computer Interfaces (BCI) | Context and workflow engineering |
 | Human-agent collaboration | Entity resolution and data enrichment |
 
 My goal is to make AI systems more capable in real workflows while keeping
@@ -71,7 +71,8 @@ Hangzhou, China
 I like Zenitsu for the contrast between fear and decisive action: stay curious,
 keep learning, and move with focus when it matters.
 
-Open to research discussions and collaboration in **AI Agents**, **HCI**,
-**Affective Computing**, **BCI**, and **human-centered AI applications**.
+Open to research discussions and collaboration in **AI Agents**,
+**Human-Computer Interfaces**, **Affective Computing**, **non-invasive BCI**,
+and **human-centered AI applications**.
 
 <p align="center"><sub>Build useful systems. Learn from people. Keep moving forward.</sub></p>
