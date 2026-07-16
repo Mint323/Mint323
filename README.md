@@ -1,144 +1,64 @@
-<div align="center">
+<img align="right" width="230" src="./assets/zenitsu.png" alt="Zenitsu Agatsuma surrounded by lightning" />
 
 # Hi, I'm Mint
 
-**M.S. Student in Artificial Intelligence @ Hangzhou Dianzi University**
+### AI Agent Builder · Human-Centered AI Researcher
 
-Human-Computer Interaction · Affective Computing · Brain-Computer Interfaces · AI Agents
+I build practical AI agents that connect reasoning, tools, and real-world data.
+My work sits between **agent engineering**, **human-centered AI**, and
+**scalable information systems**.
 
-[GitHub](https://github.com/Mint323) ·
-[LinkedIn](https://www.linkedin.com/in/mint-w-652626411) ·
-[X](https://x.com/wwxio192016) ·
-[Email](mailto:aminte323@gmail.com)
+- M.S. in Artificial Intelligence at Hangzhou Dianzi University
+- Based in Hangzhou, China
+- Researching HCI, Affective Computing, BCI, and AI Agents
+- Building MCP services, agent skills, and data-enrichment systems
 
-</div>
+<p>
+  <a href="mailto:aminte323@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/mint-w-652626411"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://x.com/wwxio192016"><img src="https://img.shields.io/badge/@wwxio192016-000000?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
+</p>
 
-## About Me
+<br clear="right" />
 
-I am a master's student in Artificial Intelligence at Hangzhou Dianzi
-University, based in Hangzhou, China.
+## What I Focus On
 
-My research interests lie at the intersection of human-centered artificial
-intelligence and intelligent interactive systems. I am particularly interested
-in Human-Computer Interaction, Affective Computing, Brain-Computer Interfaces,
-and AI Agents.
+| Research | Engineering |
+| --- | --- |
+| Human-Computer Interaction | Tool-using AI agents |
+| Affective Computing | MCP services and agent skills |
+| Brain-Computer Interfaces | Context and workflow engineering |
+| Human-agent collaboration | Entity resolution and data enrichment |
 
-On the engineering side, I focus on building practical AI applications and
-agent systems. My work includes tool-using agents, Model Context Protocol
-services, reusable agent skills, workflow orchestration, cross-platform identity
-resolution, and large-scale data enrichment systems.
+My goal is to make AI systems more capable in real workflows while keeping
+them understandable, useful, and centered on people. Research work is in
+progress; publications and accompanying code will be added here.
 
-I enjoy turning research ideas and real-world requirements into reliable,
-reusable AI tools.
+## Agent Engineering Stack
 
-## Current Focus
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/MCP-111111?style=flat-square" alt="Model Context Protocol" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/AsyncIO-3776AB?style=flat-square&logo=python&logoColor=white" alt="AsyncIO" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+</p>
 
-- Building tool-using agents with the Model Context Protocol
-- Designing reusable agent skills and automated workflows
-- Developing context-aware and human-centered AI applications
-- Exploring memory, planning, and collaboration in agent systems
-- Connecting agents with real-world APIs, services, and data sources
-- Building scalable data collection and enrichment infrastructure
-- Applying entity resolution to cross-platform identity discovery
+- **Agent systems:** tool calling, MCP integration, reusable skills, and workflow orchestration
+- **AI applications:** context engineering, retrieval, and human-agent interaction
+- **Backend:** asynchronous Python, FastAPI, REST APIs, and concurrent job processing
+- **Data systems:** entity resolution, large-scale enrichment, persistence, and resumable pipelines
 
-## Research Interests
+## Selected Work
 
-### Human-Computer Interaction
-
-Designing intelligent systems that are usable, adaptive, transparent, and
-aligned with human needs.
-
-### Affective Computing
-
-Exploring how AI systems can recognize, understand, and respond to human
-emotions and behavioral signals.
-
-### Brain-Computer Interfaces
-
-Investigating interaction methods that connect neural signals with intelligent
-systems and human-centered applications.
-
-### AI Agents
-
-Building agents that can reason over context, use external tools, execute
-multi-step workflows, and collaborate effectively with humans.
-
-## Agent Development and AI Applications
-
-**Core Development**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![AsyncIO](https://img.shields.io/badge/AsyncIO-3776AB?style=flat-square&logo=python&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square)
-
-**Agent Engineering**
-
-![MCP](https://img.shields.io/badge/Model_Context_Protocol-111111?style=flat-square)
-![AI Agents](https://img.shields.io/badge/AI_Agents-6E40C9?style=flat-square)
-![Tool Calling](https://img.shields.io/badge/Tool_Calling-0A66C2?style=flat-square)
-![Agent Skills](https://img.shields.io/badge/Agent_Skills-2EA44F?style=flat-square)
-
-- Model Context Protocol services and tool integration
-- Agent skills and reusable capability modules
-- Tool calling and multi-step workflow execution
-- Context engineering and information retrieval
-- Human-agent interaction and workflow automation
-- Agent-oriented API and service design
-
-**Data and Infrastructure**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-
-- Asynchronous and concurrent processing
-- Large-scale data collection and enrichment
-- Cross-platform entity resolution
-- Persistent and resumable job processing
-- API monitoring and production deployment
-
-## Selected Projects
-
-### [Social Enrich](https://github.com/Mint323/social_enrich)
-
-A unified data-enrichment service for X, GitHub, Instagram, TikTok, and
-YouTube. It provides REST APIs, MCP tools, asynchronous batch jobs,
-monitoring, caching, resumable processing, and MongoDB persistence.
-
-`Python` `FastAPI` `MCP` `MongoDB` `AsyncIO` `Prometheus`
-
-### [Entity Linker](https://github.com/Mint323/entity_linker)
-
-A cross-platform identity-linking MCP service that discovers accounts
-belonging to the same person across GitHub, LinkedIn, and X. It also provides
-tools for retrieving GitHub followers and repository stargazers.
-
-`Python` `AI Agents` `MCP` `Entity Resolution` `Information Retrieval`
-
-### [Email Enrich](https://github.com/Mint323/email-enrich)
-
-A fast and cost-efficient API for discovering and scoring public creator
-contact information across major social and developer platforms.
-
-`Python` `AI Application` `Data Enrichment` `Information Extraction`
-
-### [Instagram Comment Skill](https://github.com/Mint323/instagram-comment-SKILL)
-
-A reusable agent skill and Python workflow for collecting public Instagram
-comment users, normalizing profile data, deduplicating usernames, and
-exporting structured results.
-
-`Python` `Agent Skill` `Workflow Automation` `Data Pipeline`
-
-## Research and Publications
-
-I am currently developing my research interests and working toward my first
-academic publications.
-
-Future papers, research projects, code, and supplementary materials will be
-listed here.
+| Project | What it does |
+| --- | --- |
+| [**Social Enrich**](https://github.com/Mint323/social_enrich) | Unified X, GitHub, Instagram, TikTok, and YouTube enrichment through REST APIs, MCP tools, and resumable jobs. |
+| [**Entity Linker**](https://github.com/Mint323/entity_linker) | Finds the same person across GitHub, LinkedIn, and X through a cross-platform identity-linking MCP service. |
+| [**Email Enrich**](https://github.com/Mint323/email-enrich) | Discovers and scores public creator contact information across social and developer platforms. |
+| [**Instagram Comment Skill**](https://github.com/Mint323/instagram-comment-SKILL) | A reusable agent skill for collecting, normalizing, deduplicating, and exporting public comment-user data. |
 
 ## Education
 
@@ -146,13 +66,12 @@ listed here.
 M.S. in Artificial Intelligence · September 2025 – Present  
 Hangzhou, China
 
-## Contact
+## A Little More Personal
 
-- Email: [aminte323@gmail.com](mailto:aminte323@gmail.com)
-- LinkedIn: [Mint W.](https://www.linkedin.com/in/mint-w-652626411)
-- GitHub: [@Mint323](https://github.com/Mint323)
-- X: [@wwxio192016](https://x.com/wwxio192016)
+I like Zenitsu for the contrast between fear and decisive action: stay curious,
+keep learning, and move with focus when it matters.
 
-I am open to research discussions and collaboration related to AI Agents,
-Human-Computer Interaction, Affective Computing, Brain-Computer Interfaces,
-and human-centered AI applications.
+Open to research discussions and collaboration in **AI Agents**, **HCI**,
+**Affective Computing**, **BCI**, and **human-centered AI applications**.
+
+<p align="center"><sub>Build useful systems. Learn from people. Keep moving forward.</sub></p>
